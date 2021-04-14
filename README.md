@@ -27,14 +27,9 @@ Please craft a request email for 1 of the following needs.
 
 ## Code Test
 
-Please review the design in the mockup folder and code out using the following languages.
+Please review the design in the mockup folder and code it out with Laravel and Blade. 
 
-- HTML
-- CSS
-- PHP
-- Javascript
-
-Feel free to use any libraries / frameworks to pull this off. We would also like to see this flex on content breaks to a mobile device responsivly. Please also note that the contact form will need to pass validation on the submit button click.
+Feel free to use any libraries / frameworks to pull this off. We would also like to see this design be responsive and work on tablet and mobile devices. Please also note that the contact form will need to pass validation on the submit button click.
 
 At the bottom of the mock up there is a Javascript puzzle. Please use the following data in your JS declared objects.
 
