@@ -1,6 +1,6 @@
 # ARCHIVED
 Please see our new [tech challenge](https://github.com/Midwestern-Interactive/tech-challenge) if you are applying for a position at Midwestern!
-
+<!--
 
 
 
@@ -67,3 +67,4 @@ At the bottom of the mock up there is a Javascript puzzle. Please use the follow
 - Tyler Viles
 
 ---
+-->
